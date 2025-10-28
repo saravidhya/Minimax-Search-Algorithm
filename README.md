@@ -276,8 +276,8 @@ if __name__ == "__main__":
 ```
 <h2>Output:</h2>
 
-![alt text](output/image.png)
-![alt text](<output/image copy.png>)
+<img width="746" height="702" alt="image" src="https://github.com/user-attachments/assets/bab09159-6126-4248-951e-12ff6d36e2cc" />
+<img width="604" height="702" alt="image" src="https://github.com/user-attachments/assets/75767805-8a99-4e24-b297-a99abae29a01" />
 
 <hr>
 <h2>Result:</h2>
